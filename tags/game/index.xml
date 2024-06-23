@@ -6,8 +6,15 @@
     <description>Recent content in Game on 完成比完美更重要ฅ•ω•ฅ</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Tue, 29 Oct 2019 10:07:47 +0600</lastBuildDate>
+    <lastBuildDate>Fri, 21 Jun 2024 10:07:47 +0800</lastBuildDate>
     <atom:link href="https://rivenrai.github.io/tags/game/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>我的第二篇文章</title>
+      <link>https://rivenrai.github.io/blog/test2/</link>
+      <pubDate>Fri, 21 Jun 2024 10:07:47 +0800</pubDate>
+      <guid>https://rivenrai.github.io/blog/test2/</guid>
+      <description>測試看看字型 ok 不 ok!</description>
+    </item>
     <item>
       <title>How To Use Checklists To Improve Your UX</title>
       <link>https://rivenrai.github.io/blog/post-13/</link>
