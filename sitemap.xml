@@ -2,13 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://rivenrai.github.io/about/</loc>
-    <lastmod>2016-08-24T17:51:42+00:00</lastmod>
+    <loc>https://rivenrai.github.io/categories/book/</loc>
+    <lastmod>2024-07-09T16:56:54+00:00</lastmod>
   </url><url>
     <loc>https://rivenrai.github.io/categories/</loc>
+    <lastmod>2024-07-09T16:56:54+00:00</lastmod>
+  </url><url>
+    <loc>https://rivenrai.github.io/tags/life/</loc>
+    <lastmod>2024-07-09T16:56:54+00:00</lastmod>
+  </url><url>
+    <loc>https://rivenrai.github.io/categories/life/</loc>
+    <lastmod>2024-07-09T16:56:54+00:00</lastmod>
+  </url><url>
+    <loc>https://rivenrai.github.io/tags/minimalist/</loc>
+    <lastmod>2024-07-09T16:56:54+00:00</lastmod>
+  </url><url>
+    <loc>https://rivenrai.github.io/posts/</loc>
+    <lastmod>2024-07-09T16:56:54+00:00</lastmod>
   </url><url>
     <loc>https://rivenrai.github.io/tags/</loc>
+    <lastmod>2024-07-09T16:56:54+00:00</lastmod>
   </url><url>
     <loc>https://rivenrai.github.io/</loc>
+    <lastmod>2024-07-09T16:56:54+00:00</lastmod>
+  </url><url>
+    <loc>https://rivenrai.github.io/posts/2024-07-09/</loc>
+    <lastmod>2024-07-09T16:56:54+00:00</lastmod>
+  </url><url>
+    <loc>https://rivenrai.github.io/about/</loc>
+    <lastmod>2016-08-24T17:51:42+00:00</lastmod>
   </url>
 </urlset>
